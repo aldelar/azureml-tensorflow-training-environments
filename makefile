@@ -1,5 +1,5 @@
 # Define apps and registry
-REGISTRY 		?=ailabml1b51bd50.azurecr.io
+REGISTRY 		?=<my registry>.azurecr.io
 IMAGE_NAME		?=tf-2.0.0-gpu
 IMAGE_VERSION	?=latest
 
