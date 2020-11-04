@@ -1,0 +1,7 @@
+azureml-contrib-services
+azureml-core
+azureml-dataprep
+azureml-defaults
+azureml-sdk
+tensorflow-gpu==2.0.0
+keras<=2.3.1
